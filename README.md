@@ -1,7 +1,7 @@
 # Summary
 Prime Academy occasionally assigns repo shift challenges. Our class is split into several groups and each group is given a branch to start with. We begin on the project and at random points throughout the day, our instructor will tell us to push our changes and checkout a different branch. It is an exercise designed to force us to comment well and deal with frustrating circumstances. This is my group's final branch.
 
-# Prime Repo Shift Challenge 2!
+## Prime Repo Shift Challenge 2!
 
 Welcome back for another round of Repo Shift!
 
