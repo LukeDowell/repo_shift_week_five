@@ -1,0 +1,9 @@
+.employee-card .panel-heading {
+    position: relative;
+}
+
+.employee-card .panel-heading button {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
